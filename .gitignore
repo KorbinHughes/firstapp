@@ -1,0 +1,3 @@
+*.origin
+*.log
+/node_modules/
